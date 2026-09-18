@@ -1,0 +1,6 @@
+{
+  "name": "Runtime Manager",
+  "description": "Android Native Runtime Manager to import, analyze, manage dependencies, and run Node.js and Python projects directly on device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
